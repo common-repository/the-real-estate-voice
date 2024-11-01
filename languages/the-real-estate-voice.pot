@@ -1,0 +1,889 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Real Estate Voice: Content and Social Media Auto "
+"Posting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-03 07:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: the-real-estate-voice"
+
+#: classes/class-revoice-settings.php:1175
+msgid " "
+msgstr ""
+
+#: the-real-estate-voice.php:451
+msgid ""
+"  requires SSL to be able to publish to instagram as your PHP version is 7.0 "
+"or less. Upgrade PHP or install SSL."
+msgstr ""
+
+#: classes/class-revoice-settings.php:1745
+msgid " Skipped as Already exists)"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1436
+msgid ")"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:43
+msgid "14 days"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:44
+msgid "30 days"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:45
+msgid "90 days"
+msgstr ""
+
+#: includes/share-tab.php:342 includes/share-listing-tab.php:463
+#: includes/order-tab.php:249 includes/instagram/days-tab.php:177
+msgid "<< Previous"
+msgstr ""
+
+#: includes/main-tab.php:63
+msgid ""
+"A professionally written profile written specifically for you or your office "
+"for only $150+GST."
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:45
+msgid "Actions"
+msgstr ""
+
+#: includes/order-tab.php:210 includes/order-tab.php:212
+msgid "Add Article"
+msgstr ""
+
+#: classes/class-revoice-settings.php:867
+#: classes/class-revoice-settings.php:1549
+msgid "Add Open Graph Tags"
+msgstr ""
+
+#: includes/main-tab.php:51
+msgid "Agent and agency profiles"
+msgstr ""
+
+#: includes/share-tab.php:22 includes/share-tab.php:97
+#: includes/share-listing-tab.php:29 includes/share-listing-tab.php:103
+#: includes/order-tab.php:84
+msgid "all"
+msgstr ""
+
+#: includes/share-tab.php:134 includes/share-listing-tab.php:142
+#: includes/order-tab.php:117
+msgid "All Categories"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:90
+msgid "April"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:263
+msgid "Article"
+msgstr ""
+
+#: includes/share-tab.php:326 includes/order-tab.php:236
+msgid "Article not found"
+msgstr ""
+
+#: classes/class-revoice-settings.php:850
+msgid "Article Share Times"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1591
+msgid "Article status"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1599
+msgid "Article to Check"
+msgstr ""
+
+#: classes/class-revoice-contentlibrary.php:110
+#: classes/class-revoice-settings.php:1288
+msgid "Articles"
+msgstr ""
+
+#: includes/main-tab.php:163
+msgid ""
+"Articles are up to 500 words, and cost $250+GST which includes a phone call "
+"with a writer, one round of changes, any research needed, and a social media "
+"intro for the platform of your choice."
+msgstr ""
+
+#: classes/class-revoice-settings.php:536
+msgid "Articles from the library will be posted by this user"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1700
+msgid "Articles will be posted by this user"
+msgstr ""
+
+#: classes/class-revoice-settings.php:423
+#: classes/class-revoice-settings.php:1583
+msgid "Attribute posts to this user"
+msgstr ""
+
+#: includes/custom-functions.php:500
+msgid "Auctions"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:94
+msgid "August"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1156
+msgid "Australia"
+msgstr ""
+
+#: includes/settings-tab.php:36
+msgid "Auto Post"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1575
+#: classes/class-revoice-settings.php:1665
+msgid "Auto Post Enabled"
+msgstr ""
+
+#: classes/class-revoice-settings.php:832
+#: classes/class-revoice-settings.php:1101
+msgid "Auto Share Enabled"
+msgstr ""
+
+#: the-real-estate-voice.php:529 includes/custom-functions.php:229
+#: includes/cron.php:290 includes/hooks.php:147
+msgid "Auto Shared"
+msgstr ""
+
+#: classes/class-revoice-settings.php:949
+msgid "Brand Logo"
+msgstr ""
+
+#: includes/custom-functions.php:501
+msgid "Buy"
+msgstr ""
+
+#: classes/class-revoice-settings.php:87 classes/class-revoice-settings.php:255
+msgid "Calendar"
+msgstr ""
+
+#: classes/class-revoice-settings.php:440
+msgid "Categories"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1552
+msgid "Check this to add Facebook tags to your articles"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1667
+msgid "Check this to automatically post new articles on your website"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1104
+msgid "Check this to automatically share new content on Facebook"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1407
+#: classes/class-revoice-settings.php:1494
+msgid "Connect"
+msgstr ""
+
+#: classes/class-revoice-settings.php:941
+msgid "Connect to instagram"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1470
+msgid "Connect your Facebook page"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1372
+msgid "Connect your instagram page"
+msgstr ""
+
+#: includes/custom-functions.php:508
+msgid "Construction and Building"
+msgstr ""
+
+#: includes/ajax.php:547 includes/hooks.php:112
+msgid "Container id is missing"
+msgstr ""
+
+#: classes/class-revoice-settings.php:757
+msgid "Content"
+msgstr ""
+
+#: includes/my-content-tab.php:5
+msgid "Content created specifically for you will be available here"
+msgstr ""
+
+#: includes/custom-functions.php:509
+msgid "COVID-19"
+msgstr ""
+
+#: the-real-estate-voice.php:531 includes/ajax.php:154 includes/ajax.php:213
+#: includes/cron.php:341
+msgid "Currently scheduled"
+msgstr ""
+
+#: includes/main-tab.php:150 includes/main-tab.php:154
+msgid "Custom Articles"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:187
+msgid "Daily Page Engaged Users"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:175
+msgid "Daily Total Impressions"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:163
+msgid "Daily Total Reach"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:98
+msgid "December"
+msgstr ""
+
+#: classes/class-revoice-settings.php:957
+msgid "Default Hashtags"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:304
+#: classes/class-revoice-schedules-list-table.php:318
+#: classes/class-revoice-schedules-list-table.php:330
+msgid "Delete"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:42
+msgid "Description"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1413
+#: classes/class-revoice-settings.php:1500
+msgid "Disconnect"
+msgstr ""
+
+#: includes/main-tab.php:185 includes/main-tab.php:190
+msgid "Downloadable Guides"
+msgstr ""
+
+#: includes/main-tab.php:198
+msgid ""
+"Downloadable guides are a great way to entice potential customers to provide "
+"contact information with you. When prospects arrive at your website, you can "
+"offer comprehensive advice in the form of PDF downloads in return for an "
+"email address."
+msgstr ""
+
+#: includes/custom-functions.php:503 includes/custom-functions.php:536
+msgid "Downsizing"
+msgstr ""
+
+#: classes/class-revoice-settings.php:548
+#: classes/class-revoice-settings.php:1712
+msgid "Draft"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1121
+msgid "Easy Property Listings"
+msgstr ""
+
+#: includes/share-tab.php:305 includes/share-listing-tab.php:431
+#: classes/class-revoice-schedules-list-table.php:307
+#: classes/class-revoice-schedules-list-table.php:320
+#: classes/class-revoice-schedules-list-table.php:332
+msgid "Edit"
+msgstr ""
+
+#: classes/class-revoice-settings.php:841
+msgid "Enabled Auto Sharing for"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1239
+msgid "Enter the hashtags you want to add when sharing"
+msgstr ""
+
+#: includes/cron.php:416
+msgid "Every 30 Minutes"
+msgstr ""
+
+#: includes/settings-tab.php:37 classes/class-revoice-settings.php:67
+#: classes/class-revoice-settings.php:1472
+msgid "Facebook"
+msgstr ""
+
+#: includes/revoice-social-graph.php:23
+msgid "Facebook "
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:223
+msgid "Facebook Insights"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:88
+msgid "February"
+msgstr ""
+
+#: includes/share-tab.php:168 includes/share-listing-tab.php:180
+msgid "Filter"
+msgstr ""
+
+#: includes/custom-functions.php:315
+msgid "For more information call "
+msgstr ""
+
+#: includes/settings-tab.php:39
+msgid "General"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1118
+msgid "Generic"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:159
+msgid "Go"
+msgstr ""
+
+#: the-real-estate-voice.php:614
+msgid "Go back"
+msgstr ""
+
+#: includes/main-tab.php:234
+msgid ""
+"Got something to say but don’t have the time or skills to turn it into an "
+"influential written piece? One of our journalists can interview you and help "
+"articulate your views and ideas. "
+msgstr ""
+
+#: includes/custom-functions.php:532
+msgid "Holidays"
+msgstr ""
+
+#: classes/class-revoice-settings.php:56 classes/class-revoice-settings.php:57
+msgid "Home"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/the-real-estate-voice/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.therealestatevoice.com.au/"
+msgstr ""
+
+#: includes/ajax.php:494 includes/hooks.php:69
+msgid "Image url is not defined"
+msgstr ""
+
+#: includes/revoice-instagram-insight.php:157
+msgid "Impressions"
+msgstr ""
+
+#: includes/order-tab.php:138
+msgid "Include articles already on website"
+msgstr ""
+
+#: includes/settings-tab.php:38 classes/class-revoice-settings.php:76
+#: classes/class-revoice-settings.php:77
+#: classes/class-revoice-settings.php:1382
+msgid "Instagram"
+msgstr ""
+
+#: includes/revoice-social-graph.php:29
+msgid "Instagram "
+msgstr ""
+
+#: includes/revoice-instagram-insight.php:188
+msgid "Instagram Insights"
+msgstr ""
+
+#: includes/ajax.php:514 includes/hooks.php:88
+msgid "Instagram user id or Access token is not defined"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1325
+msgid "Instantly"
+msgstr ""
+
+#: includes/custom-functions.php:538
+msgid "Invest"
+msgstr ""
+
+#: includes/custom-functions.php:505
+msgid "Investment"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:87
+msgid "January"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:93
+msgid "July"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:92
+msgid "June"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1607
+msgid "Last Check"
+msgstr ""
+
+#: includes/share-tab.php:247 includes/share-listing-tab.php:372
+msgid "Last Shared: "
+msgstr ""
+
+#: includes/settings-tab.php:35 classes/class-revoice-contentlibrary.php:43
+msgid "Library"
+msgstr ""
+
+#: includes/custom-functions.php:510
+msgid "Lifestyle"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:261
+msgid "Listing"
+msgstr ""
+
+#: includes/share-listing-tab.php:40
+msgid "listing"
+msgstr ""
+
+#: includes/share-listing-tab.php:449
+msgid "Listing not found"
+msgstr ""
+
+#: classes/class-revoice-settings.php:758
+msgid "Listings"
+msgstr ""
+
+#: includes/main-tab.php:28
+msgid ""
+"Look like a pro with regular market reports tailored for your area, written "
+"in your tone. Includes commentary of real estate performance in your area "
+"for only $400+GST."
+msgstr ""
+
+#: includes/custom-functions.php:507
+msgid "Manage"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:89
+msgid "March"
+msgstr ""
+
+#: includes/main-tab.php:20 includes/main-tab.php:55
+msgid "Market Report 800"
+msgstr ""
+
+#: includes/main-tab.php:16
+msgid "Market reports"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:91
+msgid "May"
+msgstr ""
+
+#: classes/class-revoice-contentlibrary.php:42
+msgid "Media Hub"
+msgstr ""
+
+#: classes/class-revoice-contentlibrary.php:114
+msgid "My Content"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1747
+msgid "Never"
+msgstr ""
+
+#: the-real-estate-voice.php:528 includes/share-listing-tab.php:224
+#: includes/cron.php:274
+msgid "Never Shared"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1157
+msgid "New Zealand"
+msgstr ""
+
+#: includes/share-tab.php:352 includes/share-listing-tab.php:471
+#: includes/order-tab.php:259 includes/instagram/days-tab.php:184
+msgid "Next >>"
+msgstr ""
+
+#: includes/ajax.php:423
+msgid "No Page Selected!"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:97
+msgid "November"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1731
+msgid "Number of articles to check each time"
+msgstr ""
+
+#: includes/custom-functions.php:534
+msgid "NZ Holidays"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:96
+msgid "October"
+msgstr ""
+
+#: includes/order-tab.php:187
+msgid "On Website"
+msgstr ""
+
+#: includes/main-tab.php:29
+msgid ""
+"Once you place your order we will contact you to discuss the format "
+"including your brand and tone."
+msgstr ""
+
+#: includes/main-tab.php:97
+msgid ""
+"Once you place your order we will contact you to find out what suburb you "
+"would like to feature."
+msgstr ""
+
+#: includes/main-tab.php:64
+msgid ""
+"Once you place your order we will contact you to get more information for "
+"your profile."
+msgstr ""
+
+#: includes/main-tab.php:130
+msgid ""
+"Once you place your order we will contact you to get more information for "
+"your website and your staff profiles."
+msgstr ""
+
+#: classes/class-revoice-contentlibrary.php:112
+msgid "Order Content"
+msgstr ""
+
+#: includes/main-tab.php:36 includes/main-tab.php:71 includes/main-tab.php:104
+#: includes/main-tab.php:137 includes/main-tab.php:170
+#: includes/main-tab.php:206 includes/main-tab.php:242
+msgid "Order Now"
+msgstr ""
+
+#: includes/main-tab.php:162
+msgid ""
+"Our team can create articles specifically for you about any topic. Articles "
+"are written in your brand and tone and will be exclusive to you."
+msgstr ""
+
+#: includes/custom-functions.php:504
+msgid "Own"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1517
+msgid "Page:"
+msgstr ""
+
+#: classes/class-revoice-settings.php:550
+#: classes/class-revoice-settings.php:1715
+msgid "Pending"
+msgstr ""
+
+#: includes/share-listing-tab.php:211
+msgid "per Day"
+msgstr ""
+
+#: includes/share-listing-tab.php:208
+msgid "per Month"
+msgstr ""
+
+#: includes/share-listing-tab.php:209
+msgid "per Week"
+msgstr ""
+
+#: includes/share-listing-tab.php:210
+msgid "per Year"
+msgstr ""
+
+#: classes/class-revoice-contentlibrary.php:125
+#: classes/class-revoice-settings.php:770
+#: classes/class-revoice-settings.php:778
+msgid "Please Add Feed URL in settings page!"
+msgstr ""
+
+#: the-real-estate-voice.php:182
+msgid "Please connect to Facebook before selecting your Instagram Page."
+msgstr ""
+
+#: classes/class-revoice-settings.php:431
+msgid "Post status"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1331
+msgid "Post straight away or preferred time"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:44
+msgid "Post type"
+msgstr ""
+
+#: classes/class-revoice-settings.php:859
+#: classes/class-revoice-settings.php:1326
+msgid "Preferred Time"
+msgstr ""
+
+#: includes/revoice-instagram-insight.php:133
+msgid "Profile View"
+msgstr ""
+
+#: classes/class-revoice-settings.php:546
+#: classes/class-revoice-settings.php:1709
+msgid "Publish"
+msgstr ""
+
+#: classes/class-revoice-settings.php:553
+#: classes/class-revoice-settings.php:1718
+msgid "Publish articles immediately or put into draft mode"
+msgstr ""
+
+#: includes/custom-functions.php:533
+msgid "Quotes"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1387
+msgid "re-connect"
+msgstr ""
+
+#: includes/custom-functions.php:535
+msgid "Renovation"
+msgstr ""
+
+#: includes/custom-functions.php:511
+msgid "Renovation and Maintenance"
+msgstr ""
+
+#: includes/custom-functions.php:506
+msgid "Rent"
+msgstr ""
+
+#: includes/custom-functions.php:537
+msgid "Renting"
+msgstr ""
+
+#: includes/main-tab.php:96
+msgid ""
+"Researched snapshots on your choice of suburb. Use on your website and in "
+"other collateral. Show you know your area for $400+GST."
+msgstr ""
+
+#: includes/share-tab.php:173 includes/share-listing-tab.php:185
+msgid "Reset Filter"
+msgstr ""
+
+#: includes/custom-functions.php:512
+msgid "Rural"
+msgstr ""
+
+#: classes/class-revoice-settings.php:257
+msgid "Scheduled"
+msgstr ""
+
+#: classes/class-revoice-settings.php:86
+msgid "Scheduled & Calendar"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:43
+msgid "Scheduled at"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1210
+msgid "Select a PNG logo for your branding"
+msgstr ""
+
+#: classes/class-revoice-settings.php:907
+msgid "Select Country"
+msgstr ""
+
+#: includes/revoice-facebook-insight.php:48
+msgid "Select Duration"
+msgstr ""
+
+#: includes/share-tab.php:128 includes/share-listing-tab.php:136
+msgid "Select filters:"
+msgstr ""
+
+#: includes/main-tab.php:199
+msgid ""
+"Select from a range of guides including buying, selling, downsizing and "
+"investing."
+msgstr ""
+
+#: classes/class-revoice-settings.php:1208
+msgid "Select Image"
+msgstr ""
+
+#: includes/revoice-instagram-insight.php:12
+#: includes/revoice-facebook-insight.php:19
+msgid "Select Page"
+msgstr ""
+
+#: includes/share-listing-tab.php:162
+msgid "Select Status"
+msgstr ""
+
+#: classes/class-revoice-settings.php:608
+msgid "Select the article categories you want displayed in the library"
+msgstr ""
+
+#: classes/class-revoice-settings.php:172
+msgid "Select your instagram page"
+msgstr ""
+
+#: classes/class-revoice-settings.php:899
+msgid "Select your website platform"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1141
+msgid "Select your website provider. if you don't have one select 'Generic' "
+msgstr ""
+
+#: includes/custom-functions.php:502
+msgid "Sell"
+msgstr ""
+
+#: includes/custom-functions.php:539
+msgid "Selling"
+msgstr ""
+
+#: classes/class-revoice-calendar.php:95
+msgid "September"
+msgstr ""
+
+#: classes/class-revoice-settings.php:96 classes/class-revoice-settings.php:97
+msgid "Settings"
+msgstr ""
+
+#: includes/share-tab.php:310 includes/share-listing-tab.php:434
+#: includes/instagram/days-tab.php:154
+msgid "Share"
+msgstr ""
+
+#: includes/hooks.php:19 includes/hooks.php:20
+msgid "Share Schedule"
+msgstr ""
+
+#: the-real-estate-voice.php:530
+msgid "Shared"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1122
+msgid "SiteLoft"
+msgstr ""
+
+#: includes/main-tab.php:129
+msgid ""
+"Snappy copy that will impress your website visitors. We can give your "
+"existing website a pickup or create fresh copy for your new website. This "
+"pack includes copy for up to five static pages, up to five agent profiles $1,"
+"500+GST."
+msgstr ""
+
+#: classes/class-revoice-settings.php:66
+msgid "Social Media"
+msgstr ""
+
+#: includes/ajax.php:462 includes/hooks.php:187 includes/hooks.php:188
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/ajax.php:558 includes/hooks.php:118
+msgid "Something went wrong! Instagram share API is not connected yet"
+msgstr ""
+
+#: includes/share-tab.php:255 includes/share-listing-tab.php:379
+msgid "Status: "
+msgstr ""
+
+#: the-real-estate-voice.php:239
+msgid "Subscribe to unlock all features and content"
+msgstr ""
+
+#: includes/main-tab.php:84 includes/main-tab.php:88
+msgid "Suburb Snapshot"
+msgstr ""
+
+#: includes/ajax.php:453
+msgid "Successfully Shared"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The only all-in-one automated social media marketing WordPress plugin to "
+"help you harness your real estate voice and boost your profile."
+msgstr ""
+
+#. Author of the plugin
+#: the-real-estate-voice.php:285 the-real-estate-voice.php:334
+#: classes/class-revoice-settings.php:45 classes/class-revoice-settings.php:46
+msgid "The Real Estate Voice"
+msgstr ""
+
+#. Name of the plugin
+msgid "The Real Estate Voice: Content and Social Media Auto Posting"
+msgstr ""
+
+#: the-real-estate-voice.php:238
+msgid "This is a premium feature available for subscribers only!"
+msgstr ""
+
+#: includes/main-tab.php:221 includes/main-tab.php:226
+msgid "Thought leadership and PR"
+msgstr ""
+
+#: classes/class-revoice-schedules-list-table.php:41
+msgid "Title"
+msgstr ""
+
+#: classes/class-revoice-settings.php:154
+msgid ""
+"To get the most out of your plugin, please complete the following steps in "
+"the settings:"
+msgstr ""
+
+#: includes/revoice-instagram-insight.php:145
+msgid "Total Reach"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1158
+msgid "UK"
+msgstr ""
+
+#: the-real-estate-voice.php:241
+msgid "Unlock all features"
+msgstr ""
+
+#: classes/class-revoice-settings.php:1119
+msgid "Website Blue"
+msgstr ""
+
+#: includes/main-tab.php:117 includes/main-tab.php:121
+msgid "Website Copy"
+msgstr ""
+
+#: classes/class-revoice-settings.php:152
+msgid "Welcome to your real estate voice"
+msgstr ""
+
+#: includes/share-tab.php:248 includes/share-listing-tab.php:373
+msgid "| "
+msgstr ""
